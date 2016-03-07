@@ -12,7 +12,7 @@
 * [ ] Documentation (guide, API reference, example gallery)
 * [ ] Unit tests 
 * [ ] Python3 compatible
-* [ ] PEP8 compliant
+* [ ] [PEP8](https://www.python.org/dev/peps/pep-0008/) compliant
 * [ ] Continuous integration
 
 To satisfy these requirements, the easiest way is to start your project from 
