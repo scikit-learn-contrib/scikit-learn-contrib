@@ -7,7 +7,7 @@ This includes fixing bugs, reviewing pull requests and making releases.
 If you would like to include your own project in scikit-learn-contrib,
 take a look at the [workflow](https://github.com/scikit-learn-contrib/scikit-learn-contrib/blob/master/workflow.md).
 
-# Current projects
+# Projects
 
 ##[lightning](http://contrib.scikit-learn.org/lightning/)
 
