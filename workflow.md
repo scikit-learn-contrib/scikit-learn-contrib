@@ -8,7 +8,7 @@
 # Requirements
 
 * [ ] Available on github
-* [ ] scikit-learn compatible (check_estimator passed)
+* [ ] scikit-learn compatible ([check_estimator](http://scikit-learn.org/stable/modules/generated/sklearn.utils.estimator_checks.check_estimator.html) passed)
 * [ ] Documentation (guide, API reference, example gallery)
 * [ ] Unit tests 
 * [ ] Python3 compatible
