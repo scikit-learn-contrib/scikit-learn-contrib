@@ -13,10 +13,10 @@ take a look at the [workflow](https://github.com/scikit-learn-contrib/scikit-lea
 
 Large-scale linear classification, regression and ranking.
 
-Maintained by Mathieu Blondel and Fabian Pedregosa.
+Maintained by [Mathieu Blondel](https://github.com/mblondel) and [Fabian Pedregosa](https://github.com/fabianp).
 
 ##[py-earth](https://github.com/scikit-learn-contrib/py-earth)
 
 A Python implementation of Jerome Friedman's Multivariate Adaptive Regression Splines.
 
-Maintained by Jason Rudy and Mehdi.
+Maintained by [Jason Rudy](https://github.com/jcrudy) and [Mehdi](https://github.com/mehdidc).
