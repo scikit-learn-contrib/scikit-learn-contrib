@@ -25,4 +25,5 @@ into scikit-learn-contrib.
 2. The project undergoes a simple review by scikit-learn or scikit-learn-contrib members to check
 that the above requirements are satisfied.
 3. A team is created in the scikit-learn-contrib organization for your project.
-4. [Transfer your project](https://help.github.com/articles/transferring-a-repository/) to the scikit-learn-contrib organization.
+4. [Transfer your project](https://help.github.com/articles/transferring-a-repository/) to the scikit-learn-contrib organization (transfer retains branches, stars, etc).
+5. Fork the project in your account (this way, the old project URL is still valid).
