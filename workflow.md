@@ -16,8 +16,9 @@ In addition, pull-requests on scikit-learn tend to take from a few weeks to a fe
 
 # Requirements
 
-* Available on github
 * **scikit-learn compatible** ([check_estimator](http://scikit-learn.org/stable/modules/generated/sklearn.utils.estimator_checks.check_estimator.html) passed)
+* Available on github
+* Open-source license (BSD preferred but not mandatory)
 * Documentation (guide, API reference, example gallery)
 * Unit tests 
 * Python3 compatible
