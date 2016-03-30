@@ -10,7 +10,7 @@ scikit-learn-contrib is a collection of high-quality scikit-learn compatible pro
  
 # scikit-learn vs. scikit-learn-contrib
 
-In scikit-learn, we are pretty selective on the algorithms we include: notoriety (number of citations), general usefulness, no external dependencies. See scikit-learn's [FAQ](http://scikit-learn.org/stable/faq.html) for more details. In contrast, these conditions are not necessary for inclusion in scikit-learn-contrib (although we do have a few technical requirements, see below). scikit-learn-contrib is the ideal choice for cutting-edge algorithms (e.g., the latest ICML or NIPS paper), niche algorithms, library wrappers.
+In scikit-learn, we are pretty selective on the algorithms we include: notoriety (number of citations), general usefulness, no external dependencies. See scikit-learn's [FAQ](http://scikit-learn.org/stable/faq.html) for more details. In contrast, these conditions are not necessary for inclusion in scikit-learn-contrib (although we do have a few technical requirements, see below). scikit-learn-contrib is the ideal choice for cutting-edge algorithms (e.g., the latest ICML or NIPS paper), domain-specific algorithms, library wrappers.
 
 In addition, pull-requests on scikit-learn tend to take from a few weeks to a few months to review. In constrat, if the requirements below are satisfied, projects are expected to be accepted to scikit-learn-contrib within a few days.
 
