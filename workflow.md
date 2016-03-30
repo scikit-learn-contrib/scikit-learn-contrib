@@ -1,4 +1,4 @@
-scikit-learn-contrib is a collection of high-quality scikit-learn compatible projects. Each project's team is responsible for maintaining the project. This includes fixing bugs, reviewing pull requests and making releases.
+scikit-learn-contrib is a github organization for gathering high-quality scikit-learn compatible projects. Each project's team is responsible for maintaining the project. This includes fixing bugs, reviewing pull requests and making releases.
 
 # Why moving my project to scikit-learn-contrib?
 
