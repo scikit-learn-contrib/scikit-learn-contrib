@@ -1,6 +1,6 @@
 # scikit-learn-contrib
 
-scikit-learn-contrib is a collection of high-quality scikit-learn compatible projects. 
+scikit-learn-contrib is a github organization for gathering high-quality scikit-learn compatible projects. Compatibility with scikit-learn means that the projects adhere to the same intuitive interface as scikit-learn and are compatible with grid search, pipelines, etc.
 
 If you would like to include your own project in scikit-learn-contrib,
 take a look at the [workflow](https://github.com/scikit-learn-contrib/scikit-learn-contrib/blob/master/workflow.md).
