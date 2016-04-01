@@ -38,6 +38,8 @@ that the above requirements are satisfied.
 4. [Transfer your project](https://help.github.com/articles/transferring-a-repository/) to the scikit-learn-contrib organization (transfer retains branches, stars, etc).
 5. Fork the project in your account (this way, the old project URL is still valid).
 
-# Other conventions
+# Guidelines
 
 1. Project name on pypi is sklearn-contrib-project-name (e.g., sklearn-contrib-lightning)
+2. When changing the signature of a public function or class, the old signature must be supported for two releases
+3. The options of all estimators must have sensitible default values.
