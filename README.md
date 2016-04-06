@@ -1,6 +1,6 @@
 # scikit-learn-contrib
 
-scikit-learn-contrib is a github organization for gathering high-quality scikit-learn compatible projects.
+scikit-learn-contrib is a github organization for gathering high-quality [scikit-learn](http://scikit-learn.org) compatible projects.  It also provides a [template](https://github.com/scikit-learn-contrib/project-template) for establishing new scikit-learn compatible projects.
 
 # Vision
 
