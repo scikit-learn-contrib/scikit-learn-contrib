@@ -27,7 +27,7 @@ Maintained by [Jason Rudy](https://github.com/jcrudy) and [Mehdi](https://github
 
 Python module to perform under sampling and over sampling with various techniques.
 
-Maintained by [Guillaume Lemaitre](https://github.com/glemaitre), [Fernando Nogueira](https://github.com/fmfn), [Dayvid Oliveira](https://github.com/dvro), and [Christos Aridas](https://github.com/chkoar).
+Maintained by [Guillaume Lemaitre](https://github.com/glemaitre), [Fernando Nogueira](https://github.com/fmfn), [Dayvid Oliveira](https://github.com/dvro) and [Christos Aridas](https://github.com/chkoar).
 
 ##[polylearn](https://github.com/scikit-learn-contrib/polylearn)
 
@@ -37,6 +37,6 @@ Maintained by [Vlad Niculae](https://github.com/vene).
 
 ##[forest-confidence-interval](https://github.com/scikit-learn-contrib/forest-confidence-interval)
 
-Confidence intervals for scikit learn forest algorithms.
+Confidence intervals for scikit-learn forest algorithms.
 
-Maintained by [Ariel Rokem](https://github.com/arokem)
+Maintained by [Ariel Rokem](https://github.com/arokem).
