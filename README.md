@@ -39,4 +39,4 @@ Maintained by [Vlad Niculae](https://github.com/vene).
 
 Confidence intervals for scikit-learn forest algorithms.
 
-Maintained by [Ariel Rokem](https://github.com/arokem).
+Maintained by [Ariel Rokem](https://github.com/arokem), [Kivan Polimis](https://github.com/kpolimis) and [Bryna Hazelton](https://github.com/bhazelton).
