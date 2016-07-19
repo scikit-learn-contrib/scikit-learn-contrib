@@ -33,4 +33,10 @@ Maintained by [Guillaume Lemaitre](https://github.com/glemaitre) and [Fernando N
 
 Factorization machines and polynomial networks for classification and regression in Python.
 
-Maintained by [Vlad Niculae](https://github.com/vene)
+Maintained by [Vlad Niculae](https://github.com/vene).
+
+##[forest-confidence-interval](https://github.com/scikit-learn-contrib/forest-confidence-interval)
+
+Confidence intervals for scikit learn forest algorithms.
+
+Maintained by [Ariel Rokem](https://github.com/arokem)
