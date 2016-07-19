@@ -23,6 +23,12 @@ A Python implementation of Jerome Friedman's Multivariate Adaptive Regression Sp
 
 Maintained by [Jason Rudy](https://github.com/jcrudy) and [Mehdi](https://github.com/mehdidc).
 
+##[imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn)
+
+Python module to perform under sampling and over sampling with various techniques.
+
+Maintained by [Guillaume Lemaitre](https://github.com/glemaitre) and [Fernando Nogueira](https://github.com/fmfn).
+
 ##[polylearn](https://github.com/scikit-learn-contrib/polylearn)
 
 Factorization machines and polynomial networks for classification and regression in Python.
