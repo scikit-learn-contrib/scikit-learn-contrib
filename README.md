@@ -22,3 +22,9 @@ Maintained by [Mathieu Blondel](https://github.com/mblondel) and [Fabian Pedrego
 A Python implementation of Jerome Friedman's Multivariate Adaptive Regression Splines.
 
 Maintained by [Jason Rudy](https://github.com/jcrudy) and [Mehdi](https://github.com/mehdidc).
+
+##[polylearn](https://github.com/scikit-learn-contrib/polylearn)
+
+Factorization machines and polynomial networks for classification and regression in Python.
+
+Maintained by [Vlad Niculae](https://github.com/vene)
