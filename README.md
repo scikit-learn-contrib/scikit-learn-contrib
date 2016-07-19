@@ -27,7 +27,7 @@ Maintained by [Jason Rudy](https://github.com/jcrudy) and [Mehdi](https://github
 
 Python module to perform under sampling and over sampling with various techniques.
 
-Maintained by [Guillaume Lemaitre](https://github.com/glemaitre) and [Fernando Nogueira](https://github.com/fmfn).
+Maintained by [Guillaume Lemaitre](https://github.com/glemaitre), [Fernando Nogueira](https://github.com/fmfn), [Dayvid Oliveira](https://github.com/dvro), and [Christos Aridas](https://github.com/chkoar).
 
 ##[polylearn](https://github.com/scikit-learn-contrib/polylearn)
 
