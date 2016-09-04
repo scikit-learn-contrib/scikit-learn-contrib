@@ -40,3 +40,9 @@ Maintained by [Vlad Niculae](https://github.com/vene).
 Confidence intervals for scikit-learn forest algorithms.
 
 Maintained by [Ariel Rokem](https://github.com/arokem), [Kivan Polimis](https://github.com/kpolimis) and [Bryna Hazelton](https://github.com/bhazelton).
+
+##[hdbscan](http://hdbscan.readthedocs.io/en/latest/)
+
+A high performance implementation of HDBSCAN clustering.
+
+Maintained by [Leland McInnes](https://github.com/lmcinnes), [jc-healy](https://github.com/jc-healy), [c-north](https://github.com/c-north) and [Steve Astels](https://github.com/sastels).
