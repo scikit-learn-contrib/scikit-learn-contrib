@@ -46,3 +46,9 @@ Maintained by [Ariel Rokem](https://github.com/arokem), [Kivan Polimis](https://
 A high performance implementation of HDBSCAN clustering.
 
 Maintained by [Leland McInnes](https://github.com/lmcinnes), [jc-healy](https://github.com/jc-healy), [c-north](https://github.com/c-north) and [Steve Astels](https://github.com/sastels).
+
+## [categorical-encoding](http://github.com/scikit-learn-contrib/categorical-encoding)
+
+A library of sklearn compatible categorical variable encoders.
+
+Maintained by [Will McGinnis](https://github.com/wdm0006)
