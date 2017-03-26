@@ -52,3 +52,10 @@ Maintained by [Leland McInnes](https://github.com/lmcinnes), [jc-healy](https://
 A library of sklearn compatible categorical variable encoders.
 
 Maintained by [Will McGinnis](https://github.com/wdm0006)
+
+## [boruta_py](https://github.com/scikit-learn-contrib/boruta_py)
+
+Python implementations of the Boruta all-relevant feature selection method.
+
+Maintained by [Daniel Homola](https://github.com/danielhomola)
+
