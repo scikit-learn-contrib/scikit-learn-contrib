@@ -59,3 +59,10 @@ Python implementations of the Boruta all-relevant feature selection method.
 
 Maintained by [Daniel Homola](https://github.com/danielhomola)
 
+
+## [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas)
+
+Pandas integration with sklearn.
+
+Maintained by [Israel Saeta Pérez](https://github.com/dukebody)
+
