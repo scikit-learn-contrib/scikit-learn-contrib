@@ -66,3 +66,10 @@ Pandas integration with sklearn.
 
 Maintained by [Israel Saeta Pérez](https://github.com/dukebody)
 
+
+## [skope-rules](https://github.com/scikit-learn-contrib/skope-rules)
+
+Machine learning with logical rules in Python.
+
+Maintained by [Florian Gardin](https://github.com/floriangardin), [Ronan Gautier](https://github.com/RonanGautier), [Nicolas Goix](https://github.com/ngoix) and [Jean-Matthieu Schertzer](https://github.com/datajms).
+
