@@ -73,3 +73,8 @@ Machine learning with logical rules in Python.
 
 Maintained by [Florian Gardin](https://github.com/floriangardin), [Ronan Gautier](https://github.com/RonanGautier), [Nicolas Goix](https://github.com/ngoix) and [Jean-Matthieu Schertzer](https://github.com/datajms).
 
+## [stability-selection](https://github.com/scikit-learn-contrib/stability-selection)
+
+A Python implementation of the stability selection feature selection algorithm.
+
+Maintained by [Thomas Huijskens](https://github.com/thuijskens)
