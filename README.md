@@ -78,3 +78,9 @@ Maintained by [Florian Gardin](https://github.com/floriangardin), [Ronan Gautier
 A Python implementation of the stability selection feature selection algorithm.
 
 Maintained by [Thomas Huijskens](https://github.com/thuijskens)
+
+## [metric-learn](https://github.com/scikit-learn-contrib/metric-learn)
+
+Metric learning algorithms in Python.
+
+Maintained by [CJ Carey](https://github.com/perimosocordiae), [Yuan Tang](https://github.com/terrytangyuan), [William de Vazelhes](https://github.com/wdevazelhes), [Aurélien Bellet](https://github.com/bellet) and [Nathalie Vauquier](https://github.com/nvauquie).
