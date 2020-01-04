@@ -6,7 +6,7 @@ scikit-learn-contrib is a github organization for gathering high-quality scikit-
 * Collaboration: volunteers from around the world can join you in improving the project
 * Quality: benefit from scikit-learn's experience in producing high-quality machine learning software
 * Transfer: most popular estimators can eventually be promoted to scikit-learn
-* URL: http://contrib.scikit-learn.org/project-name
+* URL: http://contrib.scikit-learn.org
  
 # scikit-learn vs. scikit-learn-contrib
 
@@ -41,6 +41,6 @@ that the above requirements are satisfied.
 # Project maintenance guidelines
 
 1. Project name on pypi is sklearn-contrib-project-name (e.g., sklearn-contrib-lightning).
-2. Upload documentation to your [gh-pages](https://help.github.com/articles/creating-project-pages-manually/) branch.
+2. Upload documentation to your [gh-pages](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site) branch.
 3. When changing the signature of a public function or class, the old signature must be supported for two releases.
 4. The options of all estimators must have sensitible default values.
