@@ -51,7 +51,7 @@ Maintained by [Leland McInnes](https://github.com/lmcinnes), [jc-healy](https://
 
 A library of sklearn compatible categorical variable encoders.
 
-Maintained by [Will McGinnis](https://github.com/wdm0006)
+Maintained by [Will McGinnis](https://github.com/wdm0006) and [Paul Westenthanner](https://github.com/PaulWestenthanner)
 
 ## [boruta_py](https://github.com/scikit-learn-contrib/boruta_py)
 
