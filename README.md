@@ -11,6 +11,15 @@ With the explosion of the number of machine learning papers, it becomes increasi
 If you would like to include your own project in scikit-learn-contrib,
 take a look at the [workflow](https://github.com/scikit-learn-contrib/scikit-learn-contrib/blob/master/workflow.md).
 
+## [DenMune: Density-peak clustering using mutual nearest neighbors](https://github.com/scikit-learn-contrib/denmune-clustering-algorithm)
+
+A simple-but-efficient density-based clustering algorithm that can find clusters of arbitrary size, shapes and densities in two-dimensions. Higher dimensions are first reduced to 2-D using the t-sne. The algorithm relies on a single parameter K, the number of nearest neighbors.
+
+[Read The Docs](https://denmune.readthedocs.io/en/latest/), [Read the Paper](https://doi.org/10.1016/j.patcog.2020.107589)
+
+Maintained by: [Mohamed Abbas](https://github.com/egy1st)
+
+
 ## [lightning](http://contrib.scikit-learn.org/lightning/)
 
 Large-scale linear classification, regression and ranking.
