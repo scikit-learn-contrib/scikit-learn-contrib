@@ -99,3 +99,9 @@ Maintained by [Thomas Huijskens](https://github.com/thuijskens)
 Metric learning algorithms in Python.
 
 Maintained by [CJ Carey](https://github.com/perimosocordiae), [Yuan Tang](https://github.com/terrytangyuan), [William de Vazelhes](https://github.com/wdevazelhes), [Aurélien Bellet](https://github.com/bellet) and [Nathalie Vauquier](https://github.com/nvauquie).
+
+## [MAPIE - Model Agnostic Prediction Interval Estimator](https://github.com/scikit-learn-contrib/MAPIE)
+
+MAPIE is an open-source Python library for quantifying uncertainties and controlling the risks of machine learning models.
+
+Maintained by [Valentin Laurent](https://github.com/Valentin-Laurent), [Vincent Blot](https://github.com/vincentblot28), [Thibault Cordier](https://github.com/thibaultcordier) and [Louis Lacombe](https://github.com/LacombeLouis).
