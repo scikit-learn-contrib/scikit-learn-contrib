@@ -43,4 +43,4 @@ that the above requirements are satisfied.
 1. Project name on pypi is sklearn-contrib-project-name (e.g., sklearn-contrib-lightning).
 2. Upload documentation to your [gh-pages](https://help.github.com/articles/creating-project-pages-manually/) branch.
 3. When changing the signature of a public function or class, the old signature must be supported for two releases.
-4. The options of all estimators must have sensitible default values.
+4. The options of all estimators must have sensible default values.
